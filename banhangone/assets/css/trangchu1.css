@@ -1,0 +1,153 @@
+a:link, a:visited, a:active {
+    text-decoration: none;
+    color: #036;
+}
+body { 
+    background-image:url("/banhangone/assets/images/bg-top.jpg");
+    font-family: arial,tahoma;
+    font-size: 12px;
+}
+.header{
+	margin: 0px auto;
+	padding-bottom: 15px;
+	position: relative;
+	width: 976px;
+	}
+.header1 {
+    padding: 5px 0px;
+    text-align: right;
+}
+.header1 a {
+    color: #666;
+    font-size: 12px;
+    font-weight: normal;
+    margin-left: 10px;
+}
+.banner {
+	width:976px;
+	height:157px;
+	
+}
+
+.banner #logo{
+	background-image:url("/banhangone/assets/images/nen.PNG") no-repeat;
+	display: block;
+	width: 100%;
+}
+#menu {
+    height: 45px;
+    margin-top: 15px;
+	background:#00CDCD;
+	border: 1px solid #E0E0E0;
+	
+
+}
+.menu1{
+	float: right;
+	margin: 0px;
+	padding: 0px;
+	width: 976px;
+	
+}
+.menu1 li{
+	display: block;
+	float: left;
+	list-style: outside none none;
+	
+	
+}
+
+.menu1 li a{
+    border: 2px solid #E8E8E8;
+    color: #DA251C;
+    font-size: 14px;
+    line-height: 45px;
+    padding: 15px 10px;
+    text-transform:uppercase;
+    text-decoration: none;
+	border-radius:5px;
+	
+	
+	
+}
+.menu1 li:hover
+			  {  background-color:#E5E5E5;
+				cursor:pointer;	  }
+
+.box1 {
+	margin-top:20px;
+	padding-top:10px;
+	background: none repeat scroll 0px 0px white;
+	margin-left:13%;
+    height: 325px;
+    width: 970px;
+	float: left;
+	padding-left:10px;
+	padding-bottom:10px;
+}
+.slideshow {
+    float: left;
+    padding: 10px 0px 10px 10px;
+    width: 670px;
+	}
+.clean {
+	clear:both;
+}
+
+.box2{
+	margin-top:30px;
+	width: 976px;
+	margin-left:14%;
+	
+	}
+
+.box2 .item{
+	width:210px;
+	height:270px;
+	background: #F0F0F0;
+	margin:15px;
+	float:left;
+	display:block;
+	position: relative;
+}
+.box2 img{
+	width:200px;
+	height:160px;
+	padding:5px;
+	
+}
+
+.new{
+	position: absolute;
+    left: 0px;
+    top: 0px;
+    background-image: url("/banhangone/assets/images/new.png") no-repeat;
+    width: 98px;
+    height: 55px;
+    opacity: 1 !important;
+    z-index: 10;
+	}
+h4{
+	padding-bottom:5px;
+	text-align:center;
+}
+p{
+	color:red;
+	font-size: 20px;
+    padding: 5px;
+	text-align:center;
+	 
+}
+.footer {
+	height:100px;
+	width:976px;
+    color: #444;
+    line-height: 20px;
+	margin-left:160px;
+    margin-top: 920px;
+    padding: 10px;
+    text-align: center;
+    text-transform: uppercase;
+	background: none repeat scroll 0% 0% #FFF;
+	border: 1px solid #E0E0E0;
+}
