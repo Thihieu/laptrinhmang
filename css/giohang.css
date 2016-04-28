@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS Document */
+.left-content .row-cart-1{margin:0px;padding:0px;padding-bottom:10px;border-top:4px solid #000;border-bottom:1px solid #CCC;border-right:1px solid #CCC;border-left:1px solid #CCC;}
+.left-content .row-cart-1 h4{padding:10px 10px;color:#C00;font-weight:bold;font-size:24px;line-height:15px;margin-top:0px;line-height:1.2;}
+.left-content .row-cart-1 #contentCart table.table-fix{margin-bottom: 0px;}
+.left-content .row-cart-1 table tr td{vertical-align:middle;font-size: 18px;}
+.left-content h4 span.icon-payment{padding-right: 10px;padding-left:0px;color:#222;}
+.left-content .row-cart-1 table tr.row-fix{border: none;}
+.left-content .row-cart-1 #contentCart table.table-fix tr td a.tt{color: #161662;font-weight: bold;font-size: 20px;}
+.left-content .row-cart-1 #contentCart table.table-fix tr td a.tt:hover{text-decoration: none;}
+.left-content .row-cart-1 #contentCart table.table-fix tr td a.tt span.icon-pay{margin-right: 10px;margin-top: 2px;font-size: 20px;margin-left: 25px;}
+.left-content .row-cart-1 #contentCart table.table-fix tr td a.th{color:#900;font-weight:bold;font-size: 20px;}
+.left-content .row-cart-1 #contentCart table.table-fix tr td a.th:hover{text-decoration: none;}
+.left-content .row-cart-1 #contentCart table.table-fix tr td a.th span.icon-eye{font-size: 20px;color:#900;margin-right: 10px;}
+
+
+

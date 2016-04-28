@@ -1,0 +1,30 @@
+@charset "utf-8";
+/* CSS Document */
+.product-img{text-align:center;}
+.product-img img{width:80%;-webkit-transform:scale(0.8);-moz-transform:scale(0.8); -o-transform:scale(0.8); -webkit-transition-duration: 0.8s;-moz-transition-duration: 0.8s; -o-transition-duration: 0.8s; opacity: 0.8;padding-bottom:10px;}
+.product-img img:hover{-webkit-transform:scale(1.0);-moz-transform:scale(1.0); -o-transform:scale(1.0);opacity: 1;}
+.product-title{padding-bottom:10px;}
+.product-title h4{font-size:24px;color:#F60;}
+.product-title p{font-size:18px;padding-top:20px;}
+.product-title p span{color:#F00;}
+.product-title p#des{font-size:16px;text-align:justify;}
+.product-title a{text-align:center;padding:8px 0px;background:#900;border-radius:6px 6px;display:block;color:#FFF;font-size:18px;text-decoration:none;width:100%;}
+.product-title a:hover{background:#C00;}
+.left-row-2{padding:0px;margin:0px;}
+.top-comment{border-bottom:1px solid #CCC;padding:0px;margin:0px;}
+.comment{padding:0px;margin:0px;}
+.comment h4{font-size:16px;font-weight:bold;color:#000;}
+.comment .btn-cart{width:100%;text-align:center;}
+.bot-comment{border-bottom:none;}
+.list-comment{margin-top:10px;}
+.list-comment h4{font-size:16px;color:#000;}
+.list-comment h4 span.rows-comment{color:#900;padding:0px;margin:0px;font-size:16px;}
+.list-comment ul{border-bottom:1px dotted #CCC;padding-bottom:5px;padding:0px;padding-left:10px;}
+.list-comment ul li{padding:3px 0px;}
+.list-comment ul li.comment-title{font-size:14px;color:#000;font-weight:bold;}
+.list-comment ul li.comment-title span.time-comment{color:#999;font-weight:normal;font-size:14px;padding:0px;}
+.list-comment ul li.comment-detail{color:#666;font-weight:normal;}
+.left-row-3{border-top:4px solid #900;padding:0px;margin:0px;margin-top:20px;border-bottom:1px solid #CCC;border-right:1px solid #CCC;border-left:1px solid #CCC;}
+.left-row-3 .left-row-title{padding-bottom:5px;}
+.left-row-3 .left-row-title h3{margin-top:0px;margin-bottom:20px;}
+.left-row-3 .left-row-title h3 span{padding-right:10px;}
